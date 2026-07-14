@@ -209,7 +209,7 @@ glenBattleTuning_v3 = {
       "anim": "wildjump"
     },
     "horry": {
-      "left": 66,
+      "left": 64.5,
       "top": 51,
       "scale": 1,
       "flip": false,
@@ -225,12 +225,36 @@ glenBattleTuning_v3 = {
       "anim": "breathe"
     },
     "hootlit": {
-      "left": 68.5,
+      "left": 67.5,
       "top": 49.5,
       "scale": 0.45,
       "flip": true,
       "face": "front",
       "anim": "wildjump"
+    },
+    "grog": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": false,
+      "face": "front",
+      "anim": "bob"
+    },
+    "lunaowl": {
+      "left": 67.5,
+      "top": 50.5,
+      "scale": 0.7,
+      "flip": true,
+      "face": "front",
+      "anim": "sidehop"
+    },
+    "celestrix": {
+      "left": 69.5,
+      "top": 51,
+      "scale": 0.9,
+      "flip": false,
+      "face": "front",
+      "anim": "breathe"
     }
   },
   "boss": {
@@ -604,6 +628,30 @@ glenBattleTuning_v3 = {
     },
     "roport": {
       "left": 29,
+      "top": 71,
+      "scale": 1,
+      "flip": false,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "hootlit": {
+      "left": 30.5,
+      "top": 70.5,
+      "scale": 0.85,
+      "flip": false,
+      "face": "back",
+      "anim": "wildjump"
+    },
+    "lunaowl": {
+      "left": 29.5,
+      "top": 72.5,
+      "scale": 1,
+      "flip": false,
+      "face": "back",
+      "anim": "sidehop"
+    },
+    "celestrix": {
+      "left": 28.5,
       "top": 71,
       "scale": 1,
       "flip": false,
