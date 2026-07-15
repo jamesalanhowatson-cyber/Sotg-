@@ -1,0 +1,712 @@
+glenBattleTuning_v3 = {
+  "foe": {
+    "__default": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": false,
+      "face": "front",
+      "anim": "bob"
+    },
+    "spunkie": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": true,
+      "face": "front",
+      "anim": "wildjump"
+    },
+    "selkie": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": true,
+      "face": "front",
+      "anim": "wildjump"
+    },
+    "ghillie": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": false,
+      "face": "front",
+      "anim": "wildjump"
+    },
+    "wispup": {
+      "left": 68.5,
+      "top": 49.5,
+      "scale": 0.9,
+      "flip": true,
+      "face": "front",
+      "anim": "wildjump"
+    },
+    "teineling": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": true,
+      "face": "front",
+      "anim": "wildjump"
+    },
+    "bramblebuck": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": true,
+      "face": "front",
+      "anim": "sidehop"
+    },
+    "selkide": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": true,
+      "face": "front",
+      "anim": "sidehop"
+    },
+    "sparkub": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": true,
+      "face": "front",
+      "anim": "sidehop"
+    },
+    "bodusk": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": false,
+      "face": "front",
+      "anim": "sidehop"
+    },
+    "spiruff": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": false,
+      "face": "front",
+      "anim": "sidehop"
+    },
+    "lasairhorn": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": false,
+      "face": "front",
+      "anim": "sidehop"
+    },
+    "elderthorn": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": false,
+      "face": "front",
+      "anim": "breathe"
+    },
+    "nessea": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": false,
+      "face": "front",
+      "anim": "breathe"
+    },
+    "cinderguard": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": false,
+      "face": "front",
+      "anim": "breathe"
+    },
+    "bodarch": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": false,
+      "face": "front",
+      "anim": "breathe"
+    },
+    "spectrith": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": false,
+      "face": "front",
+      "anim": "breathe"
+    },
+    "infernicorn": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": false,
+      "face": "front",
+      "anim": "breathe"
+    },
+    "bodach": {
+      "left": 67.5,
+      "top": 42.5,
+      "scale": 0.8,
+      "flip": false,
+      "face": "front",
+      "anim": "bob"
+    },
+    "haggie": {
+      "left": 68.5,
+      "top": 49.5,
+      "scale": 0.6,
+      "flip": false,
+      "face": "front",
+      "anim": "wildjump"
+    },
+    "weecoo": {
+      "left": 69,
+      "top": 49.5,
+      "scale": 0.7,
+      "flip": false,
+      "face": "front",
+      "anim": "wildjump"
+    },
+    "boobrie": {
+      "left": 68.5,
+      "top": 49.5,
+      "scale": 1,
+      "flip": false,
+      "face": "front",
+      "anim": "sidehop"
+    },
+    "thistil": {
+      "left": 68.5,
+      "top": 49.5,
+      "scale": 0.75,
+      "flip": true,
+      "face": "front",
+      "anim": "wildjump"
+    },
+    "wulver": {
+      "left": 68.5,
+      "top": 51,
+      "scale": 0.8,
+      "flip": false,
+      "face": "front",
+      "anim": "wildjump"
+    },
+    "skurry": {
+      "left": 67.5,
+      "top": 49.5,
+      "scale": 0.7,
+      "flip": false,
+      "face": "front",
+      "anim": "wildjump"
+    },
+    "capling": {
+      "left": 67.5,
+      "top": 49.5,
+      "scale": 0.85,
+      "flip": true,
+      "face": "front",
+      "anim": "wildjump"
+    },
+    "horry": {
+      "left": 64.5,
+      "top": 51,
+      "scale": 1,
+      "flip": false,
+      "face": "front",
+      "anim": "breathe"
+    },
+    "roport": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": false,
+      "face": "front",
+      "anim": "breathe"
+    },
+    "hootlit": {
+      "left": 67.5,
+      "top": 49.5,
+      "scale": 0.45,
+      "flip": true,
+      "face": "front",
+      "anim": "wildjump"
+    },
+    "grog": {
+      "left": 66,
+      "top": 51,
+      "scale": 1,
+      "flip": false,
+      "face": "front",
+      "anim": "bob"
+    },
+    "lunaowl": {
+      "left": 67.5,
+      "top": 50.5,
+      "scale": 0.7,
+      "flip": true,
+      "face": "front",
+      "anim": "sidehop"
+    },
+    "celestrix": {
+      "left": 69.5,
+      "top": 51,
+      "scale": 0.9,
+      "flip": false,
+      "face": "front",
+      "anim": "breathe"
+    },
+    "breckle": {
+      "left": 71.5,
+      "top": 46.5,
+      "scale": 0.55,
+      "flip": false,
+      "face": "front",
+      "anim": "bob"
+    }
+  },
+  "boss": {
+    "left": 66,
+    "top": 52,
+    "scale": 1.35,
+    "flip": false,
+    "face": "front",
+    "anim": "breathe"
+  },
+  "you": {
+    "__default": {
+      "left": 29,
+      "top": 71,
+      "scale": 1,
+      "flip": false,
+      "face": "back",
+      "anim": "bob"
+    },
+    "spunkie": {
+      "left": 30.5,
+      "top": 71,
+      "scale": 1,
+      "flip": true,
+      "face": "back",
+      "anim": "wildjump"
+    },
+    "selkie": {
+      "left": 31.5,
+      "top": 72,
+      "scale": 0.95,
+      "flip": true,
+      "face": "back",
+      "anim": "wildjump"
+    },
+    "ghillie": {
+      "left": 29,
+      "top": 71,
+      "scale": 1.05,
+      "flip": true,
+      "face": "back",
+      "anim": "wildjump"
+    },
+    "wispup": {
+      "left": 31.5,
+      "top": 71.5,
+      "scale": 0.65,
+      "flip": false,
+      "face": "back",
+      "anim": "wildjump"
+    },
+    "teineling": {
+      "left": 29,
+      "top": 71,
+      "scale": 0.75,
+      "flip": true,
+      "face": "back",
+      "anim": "wildjump"
+    },
+    "bramblebuck": {
+      "left": 29,
+      "top": 71,
+      "scale": 1.25,
+      "flip": true,
+      "face": "back",
+      "anim": "sidehop"
+    },
+    "selkide": {
+      "left": 30.5,
+      "top": 73,
+      "scale": 1.15,
+      "flip": true,
+      "face": "back",
+      "anim": "wildjump"
+    },
+    "sparkub": {
+      "left": 29,
+      "top": 71,
+      "scale": 1.25,
+      "flip": true,
+      "face": "back",
+      "anim": "sidehop"
+    },
+    "bodusk": {
+      "left": 29.5,
+      "top": 71,
+      "scale": 0.9,
+      "flip": false,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "spiruff": {
+      "left": 28.5,
+      "top": 71,
+      "scale": 1,
+      "flip": true,
+      "face": "back",
+      "anim": "sidehop"
+    },
+    "lasairhorn": {
+      "left": 27,
+      "top": 71,
+      "scale": 0.95,
+      "flip": false,
+      "face": "back",
+      "anim": "sidehop"
+    },
+    "elderthorn": {
+      "left": 30.5,
+      "top": 71.5,
+      "scale": 1.45,
+      "flip": true,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "nessea": {
+      "left": 28,
+      "top": 72,
+      "scale": 1.45,
+      "flip": false,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "cinderguard": {
+      "left": 28.5,
+      "top": 72.5,
+      "scale": 1.4,
+      "flip": true,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "bodarch": {
+      "left": 30,
+      "top": 71,
+      "scale": 1.1,
+      "flip": false,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "spectrith": {
+      "left": 26,
+      "top": 71,
+      "scale": 1.25,
+      "flip": true,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "infernicorn": {
+      "left": 31,
+      "top": 71,
+      "scale": 1.3,
+      "flip": false,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "bodach": {
+      "left": 30.5,
+      "top": 62,
+      "scale": 0.8,
+      "flip": false,
+      "face": "back",
+      "anim": "bob"
+    },
+    "haggie": {
+      "left": 31.5,
+      "top": 69.5,
+      "scale": 0.65,
+      "flip": false,
+      "face": "back",
+      "anim": "wildjump"
+    },
+    "weecoo": {
+      "left": 31.5,
+      "top": 70.5,
+      "scale": 0.8,
+      "flip": false,
+      "face": "back",
+      "anim": "wildjump"
+    },
+    "wulveright": {
+      "left": 27,
+      "top": 70,
+      "scale": 1.1,
+      "flip": false,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "thistilord": {
+      "left": 30,
+      "top": 71,
+      "scale": 1.15,
+      "flip": false,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "haganis": {
+      "left": 28.5,
+      "top": 71,
+      "scale": 1.3,
+      "flip": false,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "galnado": {
+      "left": 31.5,
+      "top": 72,
+      "scale": 1.15,
+      "flip": true,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "boobrie": {
+      "left": 29.5,
+      "top": 70.5,
+      "scale": 1.1,
+      "flip": false,
+      "face": "back",
+      "anim": "sidehop"
+    },
+    "wulver": {
+      "left": 31.5,
+      "top": 71,
+      "scale": 0.8,
+      "flip": false,
+      "face": "back",
+      "anim": "wildjump"
+    },
+    "lochbrie": {
+      "left": 29,
+      "top": 71,
+      "scale": 1,
+      "flip": false,
+      "face": "back",
+      "anim": "sidehop"
+    },
+    "golbrie": {
+      "left": 31.5,
+      "top": 71,
+      "scale": 1.3,
+      "flip": false,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "kelpip": {
+      "left": 29,
+      "top": 71,
+      "scale": 1,
+      "flip": false,
+      "face": "back",
+      "anim": "bob"
+    },
+    "kelpie": {
+      "left": 29,
+      "top": 71,
+      "scale": 1,
+      "flip": false,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "kelphin": {
+      "left": 30,
+      "top": 71,
+      "scale": 1.2,
+      "flip": true,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "corbie": {
+      "left": 31,
+      "top": 69,
+      "scale": 0.9,
+      "flip": false,
+      "face": "back",
+      "anim": "wildjump"
+    },
+    "corvane": {
+      "left": 29,
+      "top": 71,
+      "scale": 1,
+      "flip": false,
+      "face": "back",
+      "anim": "sidehop"
+    },
+    "corvyrn": {
+      "left": 28,
+      "top": 71,
+      "scale": 1.15,
+      "flip": false,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "heifire": {
+      "left": 31.5,
+      "top": 71,
+      "scale": 1,
+      "flip": false,
+      "face": "back",
+      "anim": "sidehop"
+    },
+    "coolossus": {
+      "left": 31.5,
+      "top": 71,
+      "scale": 1.1,
+      "flip": false,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "thistil": {
+      "left": 30.5,
+      "top": 69.5,
+      "scale": 0.8,
+      "flip": false,
+      "face": "back",
+      "anim": "wildjump"
+    },
+    "thistilune": {
+      "left": 29.5,
+      "top": 71,
+      "scale": 1,
+      "flip": false,
+      "face": "back",
+      "anim": "sidehop"
+    },
+    "skurry": {
+      "left": 31.5,
+      "top": 70,
+      "scale": 0.7,
+      "flip": false,
+      "face": "back",
+      "anim": "wildjump"
+    },
+    "skyrrel": {
+      "left": 32.5,
+      "top": 71,
+      "scale": 1.2,
+      "flip": false,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "capling": {
+      "left": 30.5,
+      "top": 70.5,
+      "scale": 0.95,
+      "flip": true,
+      "face": "back",
+      "anim": "wildjump"
+    },
+    "redcap": {
+      "left": 29,
+      "top": 70,
+      "scale": 1,
+      "flip": true,
+      "face": "back",
+      "anim": "sidehop"
+    },
+    "dreadcap": {
+      "left": 29,
+      "top": 70,
+      "scale": 1.05,
+      "flip": false,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "horry": {
+      "left": 29,
+      "top": 71,
+      "scale": 1,
+      "flip": false,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "roport": {
+      "left": 29,
+      "top": 71,
+      "scale": 1,
+      "flip": false,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "hootlit": {
+      "left": 30.5,
+      "top": 70.5,
+      "scale": 0.85,
+      "flip": false,
+      "face": "back",
+      "anim": "wildjump"
+    },
+    "lunaowl": {
+      "left": 29.5,
+      "top": 72.5,
+      "scale": 1,
+      "flip": false,
+      "face": "back",
+      "anim": "sidehop"
+    },
+    "celestrix": {
+      "left": 28.5,
+      "top": 71,
+      "scale": 1,
+      "flip": false,
+      "face": "back",
+      "anim": "breathe"
+    },
+    "breckle": {
+      "left": 29.5,
+      "top": 70.5,
+      "scale": 0.85,
+      "flip": false,
+      "face": "back",
+      "anim": "bob"
+    }
+  },
+  "arena": {
+    "glen": {
+      "dx": 0,
+      "dy": 0
+    },
+    "night": {
+      "dx": -1,
+      "dy": -0.5
+    },
+    "dawn": {
+      "dx": -2,
+      "dy": -1
+    },
+    "fishday": {
+      "dx": -3,
+      "dy": 4.5
+    },
+    "fishdawn": {
+      "dx": -3,
+      "dy": 4
+    },
+    "fishnight": {
+      "dx": -3,
+      "dy": 4
+    },
+    "moor": {
+      "dx": 0,
+      "dy": 0
+    },
+    "cave": {
+      "dx": 0,
+      "dy": 0
+    }
+  }
+}
